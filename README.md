@@ -1,4 +1,4 @@
- <p align="center">
+   <p align="center">
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 </p>
 <h1 align="center">Hi 👋, I'm Fathia omar</h1>
@@ -203,7 +203,7 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=fathiasafio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=fathiaomar &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=fathiasafio&theme=dark&hide_border=false)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fathiasafio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
