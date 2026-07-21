@@ -209,9 +209,9 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fathiasafio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://github-profile-trophy.vercel.app/?username=fathiaomar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=fathisafior&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathiasafio&theme=react-dark&bg_color=0d1117&color=08f7fe&line=ff2e63&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatthiaomar&theme=react-dark&bg_color=0d1117&color=08f7fe&line=ff2e63&point=ffffff&area=true&hide_border=true"/>
 </p>
 <p align="center">
   <picture>
