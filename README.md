@@ -205,6 +205,8 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.shion.dev/api?username=fathiaomar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=fathiaomar&theme=dark&hide_border=false)<br/>
+
+   
 ## 🏆 GitHub Trophies
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fathiaomar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
