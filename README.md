@@ -9,7 +9,7 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
  <p>
   <a href="https://www.linkedin.com/in/fathiasafio/"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
   <a href="https://x.com/fathiasafio"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
-  <a href="https://www.instagram.com/fathiasafio/"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
+  <a href="https://www.instagram.com/itz.me_fathia/"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
 <a href="https://fathiasafio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=FFB300&logoColor=black" />
 </a>
