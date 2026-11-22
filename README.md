@@ -20,9 +20,9 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=fathiasafio&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=fathiasafio&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://hub.xerj.org/contributors/fathiaomar"><img src="https://hub.xerj.org/contributors/fathiaomar/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
 </p>
-
 <img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/50/99/18/509918b2b60b25cd2d683f9963f0f59a.gif">
 
 ## 🚀 About Me
@@ -34,7 +34,6 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 - ⚡ Goal: Build secure, scalable blockchain applications
 
 ---
-
 # 💻 Tech Stack
 
 ## 🌐 Frontend
